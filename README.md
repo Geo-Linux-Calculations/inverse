@@ -3,15 +3,12 @@ The geodetic inverse, program INVERSE, is the tool for computing the geodetic az
 
 The three-dimensional versions of the geodetic inverse program INVERS3D includes the ellipsoid height component.  Also included in the 3D programs are:
 
-1) Conversions between geodetic positions (latitude, longitude, and ellipsoid height) and rectangular coordinates (X,Y,Z in the
-Conventional Terrestrial Reference System).
-
-2) Conversions between the following four observation sets:
-   a) DN,DE,DU (differential N, E, U using the FROM station 
-       as the origin of the NEU-coordinate system.)
-   b) DX,DY,DZ (differential X, Y, Z used to express GPS vectors)
-   c) delta height, forward azimuth, ellipsoidal distance
-   d) delta height, forward azimuth, mark-to-mark distance
+1. Conversions between geodetic positions (latitude, longitude, and ellipsoid height) and rectangular coordinates (X,Y,Z in the Conventional Terrestrial Reference System).
+2. Conversions between the following four observation sets:
+    1. DN,DE,DU (differential N, E, U using the FROM station as the origin of the NEU-coordinate system.)
+    2. DX,DY,DZ (differential X, Y, Z used to express GPS vectors)
+    3. delta height, forward azimuth, ellipsoidal distance
+    4. delta height, forward azimuth, mark-to-mark distance
 
 For additional information, contact:
 NOAA National Geodetic Survey,
